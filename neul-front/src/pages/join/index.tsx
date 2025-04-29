@@ -1,4 +1,4 @@
-import JoinPage from "@/features/LoginPage";
+import JoinPage from "@/features/Join";
 
 const Join = () => {
   return <JoinPage />;
